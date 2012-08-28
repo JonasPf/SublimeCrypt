@@ -1,0 +1,11 @@
+[
+{
+	"id": "file",
+	"children":
+	[
+		{"caption": "-"},
+	    {"command": "encrypt_file"},
+	    {"command": "decrypt_file"}
+	]
+}
+]

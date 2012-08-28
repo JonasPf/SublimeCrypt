@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Encrypt file",
+        "command": "encrypt_file"
+    },
+    {
+        "caption": "Decrypt file",
+        "command": "decrypt_file"
+    }
+]
